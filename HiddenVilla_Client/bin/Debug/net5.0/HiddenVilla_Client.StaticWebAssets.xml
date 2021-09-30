@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/HiddenVilla_Client/bin/Debug/net5.0/wwwroot/" />
+  <ContentRoot BasePath="/" Path="/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/HiddenVilla_Client/obj/Debug/net5.0/scopedcss/bundle/" />
+</StaticWebAssets>

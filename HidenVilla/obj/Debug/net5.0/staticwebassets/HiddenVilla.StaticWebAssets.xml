@@ -1,0 +1,6 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="_content/Blazored.TextEditor" Path="/home/mrspyretos/.nuget/packages/blazored.texteditor/1.0.3/build/../staticwebassets/" />
+  <ContentRoot BasePath="_content/Radzen.Blazor" Path="/home/mrspyretos/.nuget/packages/radzen.blazor/3.6.8/build/../staticwebassets/" />
+  <ContentRoot BasePath="/" Path="/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/HidenVilla/obj/Debug/net5.0/scopedcss/bundle/" />
+  <ContentRoot BasePath="/Identity" Path="/home/mrspyretos/.nuget/packages/microsoft.aspnetcore.identity.ui/5.0.6/staticwebassets/V4/" />
+</StaticWebAssets>

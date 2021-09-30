@@ -1,0 +1,362 @@
+{
+  "format": 1,
+  "restore": {
+    "/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/HidenVilla/HiddenVilla.csproj": {}
+  },
+  "projects": {
+    "/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/Business/Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/Business/Business.csproj",
+        "projectName": "Business",
+        "projectPath": "/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/Business/Business.csproj",
+        "packagesPath": "/home/mrspyretos/.nuget/packages/",
+        "outputPath": "/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/Business/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mrspyretos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/Common/Common.csproj": {
+                "projectPath": "/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/Common/Common.csproj"
+              },
+              "/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/DataAccess/DataAccess.csproj": {
+                "projectPath": "/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/DataAccess/DataAccess.csproj"
+              },
+              "/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/Models/Models.csproj": {
+                "projectPath": "/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/Models/Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/Common/Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/Common/Common.csproj",
+        "projectName": "Common",
+        "projectPath": "/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/Common/Common.csproj",
+        "packagesPath": "/home/mrspyretos/.nuget/packages/",
+        "outputPath": "/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/Common/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mrspyretos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/DataAccess/DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/DataAccess/DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/DataAccess/DataAccess.csproj",
+        "packagesPath": "/home/mrspyretos/.nuget/packages/",
+        "outputPath": "/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mrspyretos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/HidenVilla/HiddenVilla.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/HidenVilla/HiddenVilla.csproj",
+        "projectName": "HiddenVilla",
+        "projectPath": "/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/HidenVilla/HiddenVilla.csproj",
+        "packagesPath": "/home/mrspyretos/.nuget/packages/",
+        "outputPath": "/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/HidenVilla/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mrspyretos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/Business/Business.csproj": {
+                "projectPath": "/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/Business/Business.csproj"
+              },
+              "/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/Common/Common.csproj": {
+                "projectPath": "/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/Common/Common.csproj"
+              },
+              "/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/DataAccess/DataAccess.csproj": {
+                "projectPath": "/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/DataAccess/DataAccess.csproj"
+              },
+              "/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/Models/Models.csproj": {
+                "projectPath": "/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/Models/Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Blazored.TextEditor": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Radzen.Blazor": {
+              "target": "Package",
+              "version": "[3.6.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/Models/Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/Models/Models.csproj",
+        "projectName": "Models",
+        "projectPath": "/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/Models/Models.csproj",
+        "packagesPath": "/home/mrspyretos/.nuget/packages/",
+        "outputPath": "/media/mrspyretos/MemoryBoard/desktop2/TestProjects/Blazor/HidenVilla/Models/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/mrspyretos/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
